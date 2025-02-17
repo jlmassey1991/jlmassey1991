@@ -10,6 +10,6 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm an avid PokeMon Rom Hack connoisseur
 
-  [Check out my Master's Thesis: Estimating the Burden of Influenza with Quasi Poisson Time Series Spline Models](https://github.com/jlmassey1991/Master-s-Thesis)
+Check out my Master's Thesis: [Estimating the Burden of Influenza with Quasi Poisson Time Series Spline Models](https://github.com/jlmassey1991/Master-s-Thesis) and my [CV/Resume](https://github.com/jlmassey1991/CV-Resume/blob/main/resume_datascience%20(1).pdf)
 
 
