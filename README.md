@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 - 🔭 I’m currently working on ... saving the world from bateria and fungi in our environment! 
 - 🌱 I’m currently learning ... how to use our data platform at CDC called 1CDC! 
 - 👯 I’m looking to collaborate on ... data science, SDOH, and anything healthcare! 
@@ -8,4 +9,7 @@
 - 📫 How to reach me: ... email, phone, linkedIn DM
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm an avid PokeMon Rom Hack connoisseur
+
+  [Check out my Master's Thesis: Estimating the Burden of Influenza with a Quasi Poisson Time Series Spline Models](https://github.com/jlmassey1991/Master-s-Thesis)
+
 
