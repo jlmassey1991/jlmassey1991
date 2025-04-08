@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ... saving the world from bacteria and fungi in our environment! 
+- 🔭 I’m currently working on ... using data to save the world from bacteria and fungi! 
 - 🌱 I’m currently learning ... how to use our AI data pipeline platform at CDC called 1CDP
 - 👯 I’m looking to collaborate on ... causal inference, machine learning, and reducing healthcare costs
 - 🤔 I’m looking for help with ... JOBS (I'm a nervous federal employee)
