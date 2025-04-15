@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on ... using data to save the world from bacteria and fungi! 
 - 🌱 I’m currently learning ... how to use our AI data pipeline platform at CDC called 1CDP
 - 👯 I’m looking to collaborate on ... causal inference, machine learning, and reducing healthcare costs
-- 🤔 I’m looking for help with ... JOBS (I'm a nervous federal employee)
-- 💬 Ask me about ... Rock Climbing hehe
+- 🤔 I’m looking for help with ... my next step in my career
+- 💬 Ask me about ... Rock Climbing 
 - 🎵 I'm listening to ... From the Start by Laufey
 - 📫 How to reach me: ... email, phone, linkedIn DM
 - ⚡ Fun fact: ... I'm an avid PokeMon Rom Hack aficionado 
