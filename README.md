@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ... using data to save the world from disease using data! 
+- 🔭 I’m currently working on ... using data to save the world from disease! 
 - 🌱 I’m currently learning ... how to use our AI data pipeline platform at CDC called 1CDP
 - 👯 I’m looking to collaborate on ... causal inference, ML, health equity, and reducing healthcare costs 
 - 🤔 I’m looking for help with ... my next step in my career
