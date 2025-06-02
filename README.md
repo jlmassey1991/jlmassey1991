@@ -12,7 +12,6 @@
 
 Check out my [CV/Resume](https://github.com/jlmassey1991/CV-Resume) , 
 my Master's Thesis: [Estimating the Burden of Influenza with Quasi Poisson Time Series Spline Models in R ](https://github.com/jlmassey1991/Master-s-Thesis) , 
-the Cancer Atlas: https://canceratlas.cancer.org ,
-and the BEAM dashboard: https://www.cdc.gov/ncezid/dfwed/BEAM-dashboard.html
+and the Cancer Atlas: https://canceratlas.cancer.org
 
 
