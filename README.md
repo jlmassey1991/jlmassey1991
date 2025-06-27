@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on ... causal inference, ML, health equity, value based care, care gaps, clinical effectiveness, and reducing healthcare costs 
 - 🤔 I’m looking for help with ... my next step in my career
 - 💬 Ask me about ... Rock Climbing 
-- 🎵 I'm listening to ... From the Start by Laufey
 - 📫 How to reach me: ... email, phone, linkedIn DM
 - ⚡ Fun fact: ... I'm an avid PokeMon Rom Hack aficionado 
 
